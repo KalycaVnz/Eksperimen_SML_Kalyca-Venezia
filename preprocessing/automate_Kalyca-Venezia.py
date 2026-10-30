@@ -1,5 +1,4 @@
 """
-automate_Kalyca-Venezia.py  |  Hands-on 2
 
 Preprocessing otomatis dataset Influencer Marketing ROI.
 Ini adalah konversi dari notebook Eksperimen_Kalyca-Venezia.ipynb (bagian 5): tahapannya
